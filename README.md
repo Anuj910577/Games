@@ -1,1 +1,1 @@
-# Tic-Tac-Toe-Game
+# Tic-Tac-Toe and Stone-Paper-Scissor
